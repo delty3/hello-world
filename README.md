@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi, I enjoy using Swift and Java code to make different apps.
